@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.IoExtended23" parent="@style/Theme.Leanback" />
+</resources>
